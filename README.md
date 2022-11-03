@@ -1,6 +1,6 @@
-<p align="center">
-  <img src = "[https://t3.ftcdn.net/jpg/02/72/40/68/360_F_272406819_djyh9kysHidrdUOgoDEujj7HGSOwzlmS.jpg](https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg)">
-</p>
+[<p align="center">
+  <img src = "[https://t3.ftcdn.net/jpg/02/72/40/68/360_F_272406819_djyh9kysHidrdUOgoDEujj7HGSOwzlmS.jpg](https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg)](https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg)">
+</p>](https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg)
 
 
 # Data Science Roles Salaries & Insights
