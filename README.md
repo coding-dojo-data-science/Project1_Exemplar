@@ -99,7 +99,7 @@ This graph shows that workers in 2022 earned the most amount of money.
 - The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 50.
 - For the testing set on the model, `56.3%` of the variance in y was explained by x. 
 - The Mean Absolute Error was off by about `$31,998.94`.
-- The Mean Squared Error was $2,044,264,641.83.
+- The Mean Squared Error was `$2,044,264,641.83`.
 - The Root Mean Squared Error had a calculation of `$45,213.55`.
 
 If this model was used to make predictions about the best places to live and which careers to choose to earn the most money, it would not be a very reliable model considering the previous regression metrics from how the model performed.
