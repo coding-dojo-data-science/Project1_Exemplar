@@ -102,7 +102,7 @@ This graph shows that workers in 2022 earned the most amount of money.
 - The Mean Squared Error was `$2,044,264,641.83`.
 - The Root Mean Squared Error had a calculation of `$45,213.55`.
 
-If this model was used to make predictions about the best places to live and which careers to choose to earn the most money, it would not be a very reliable model considering the previous regression metrics from how the model performed.
+Using this model to make predictions about the best places to live and which careers to choose to earn the most money would not be a very reliable. Considering the previous regression metrics from how the model performed, there is a disparity between the R^2 score and also the Root Mean Squared Error that cannot be ignored.
 
 ## Recommendations
 
