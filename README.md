@@ -94,3 +94,38 @@ This graph shows that `Data Engineers` have the most roles that are 100% remote,
 This graph shows that workers in 2022 earned the most amount of money.
 
 
+## Final Model
+
+- The Final Model Chosen was a `Random Forest Regressor Model` with the n_estimators tuned to 50.
+- For the testing set on the model, `56.3%` of the variance in y was explained by x. 
+- The Mean Absolute Error was off by about `$31,998.94`.
+- The Mean Squared Error was $2,044,264,641.83.
+- The Root Mean Squared Error had a calculation of `$45,213.55`.
+
+If this model was used to make predictions about the best places to live and which careers to choose to earn the most money, it would not be a very reliable model considering the previous regression metrics from how the model performed.
+
+## Recommendations
+
+Data Science Insights
+
+- For those who have an interst in Data Science:
+  - Data Analytics Leads & Principal Data Engineers earn the most amount of money. However, this are usually not entry level careers and I would recommend going through a program, like Coding Dojo, where you can earn your data science certificate and then map out your career to these positions.
+
+  - Data Engineers & Data Scientists have the most 100% remote positions. So, if you are wanting to work from home, or work from anywhere in the world, choosing one of the top five remote positions would be a good choice to build your career upon.
+  
+  - Lastly, the trend for the last three years show that data science and related fields are increasingly earning more money each year. So, choosing a career in one of these fields can be very lucrative.
+
+Model Performance
+- Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model. 
+
+
+## Limitations & Next Steps
+
+From here, a student could use the insights from the visuals on how to tailor their path for their career. As mentioned before, Coding Dojo has a fantastic program that prepares inspiring data scientists for the field of data science. 
+
+## For Further Information
+
+For any additional questions, please contact: 
+- Sherlin Whaley (Data Science Instructor)
+- swhaley@codingdojo.com
+
