@@ -17,6 +17,12 @@ https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 
 For this dataset, there were 607 rows and 12 columns.
 
+## Data Dictionary
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg">
+</p>
+
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
   - Exploratory Data Analysis
