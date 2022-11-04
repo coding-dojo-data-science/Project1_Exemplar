@@ -25,7 +25,7 @@ For this dataset, there were 607 rows and 12 columns.
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
     
   - Expanatory Data Analysis
-    - To visualize the data for explantory purposes, three bargraphs were chosen, one linegraph and one scatterplot were chosen. 
+    - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a linegraph was chosen to show the trend of salaries over the past three years. 
     
