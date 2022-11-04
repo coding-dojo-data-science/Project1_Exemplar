@@ -82,7 +82,7 @@ The top and bottom earning experience level and average salary is as follows:
 </p>
 
 
-- This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
+This graph shows that `Data Engineers` have the most roles that are 100% remote, while `Cloud Data Engineers` through `Data Analytics Leads` have the least amount of 100% remote roles.
 
 
 
@@ -91,4 +91,6 @@ The top and bottom earning experience level and average salary is as follows:
 </p>
 
 
-- This graph shows that workers in 2022 earned the most amount of money.
+This graph shows that workers in 2022 earned the most amount of money.
+
+
