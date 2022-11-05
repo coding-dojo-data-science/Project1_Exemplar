@@ -30,6 +30,12 @@ For this dataset, there were 607 rows and 12 columns.
     - Also, a barplot was visualized for each categorical column. 
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
     
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/exploratory1.png">
+</p>
+
+
  ### Expanatory Data Analysis
     - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
     - The bargraphs were chosen to show how the categories compare to each other. 
@@ -77,7 +83,7 @@ The bottom five least paying job titles and average salaries are as follows:
 
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/Project1_Exemplar_figure2.png">
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory2.png">
 </p>
 
 
@@ -91,7 +97,7 @@ The top and bottom earning experience level and average salary is as follows:
 
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/Project1_Exemplar_figure3.png">
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory3.png">
 </p>
 
 
@@ -100,7 +106,7 @@ This graph shows that `Data Engineers` have the most roles that are 100% remote,
 
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/Project1_Exemplar_figure4.png">
+  <img src = "https://github.com/coding-dojo-data-science/Project1_Exemplar/blob/main/explanatory4.png">
 </p>
 
 
