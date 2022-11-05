@@ -25,22 +25,29 @@ For this dataset, there were 607 rows and 12 columns.
 
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
-  - Exploratory Data Analysis
+### Exploratory Data Analysis
     - During the exploratory data analysis, a boxplot and histogram was visualized for each numeric datatype column. 
     - Also, a barplot was visualized for each categorical column. 
     - This gave a good baseline for all of the numeric and categorical columns for univariate EDA.
     
-  - Expanatory Data Analysis
+ ### Expanatory Data Analysis
     - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a linegraph was chosen to show the trend of salaries over the past three years. 
     
-  - Maching Learning Using the Following Models:
+ ### Maching Learning Using the Following Models:
     - Linear Regression Model
     - Decision Tree Regressor Model
     - Tuned Decision Tree Regressor Model
     - Random Forest Regressor Model
     - Tuned Random Forest Regressor Model
+    
+    
+## Exploratory Visuals
+
+<p align = "center"> 
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg">
+</p>
 
 
 ## Explanatory Visuals
