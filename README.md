@@ -63,7 +63,7 @@ For this dataset, there were 607 rows and 12 columns.
 ## Explanatory Visuals
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/Project1_Exemplar_figure1.png">
+  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory1.png">
 </p>
 
 
