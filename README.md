@@ -23,6 +23,8 @@ For this dataset, there were 607 rows and 12 columns.
   <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/DS%20Salaries%20Data%20Dictionary.png">
 </p>
 
+
+
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
 ### Exploratory Data Analysis
@@ -34,6 +36,8 @@ For this dataset, there were 607 rows and 12 columns.
 <p align = "center"> 
   <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/exploratory1.png">
 </p>
+
+- This histogram shows that the majority of the salaries are around $100,000.
 
 
  ### Expanatory Data Analysis
