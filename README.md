@@ -118,25 +118,25 @@ This graph shows that workers in 2022 earned the most amount of money.
   - MSE: 6.752807031244359e+31
   - RMSE: 8217546489825512.0
 
-- Decision Tree Regressor Model:
+- Decision Tree Regressor Model (Testing Set):
   - R^2: 0.186
   - MAE: 41512.219
   - MSE: 3809835283.133
   - RMSE: 61723.863
 
-- Tuned Decision Tree Regressor Model:
+- Tuned Decision Tree Regressor Model (Testing Set):
   - R^2: 0.462
   - MAE: 34610.985
   - MSE: 2517885802.26
   - RMSE: 50178.539
 
-- Random Forest Regressor Model:
+- Random Forest Regressor Model (Testing Set):
   - R^2: 0.56
   - MAE: 31872.362
   - MSE: 2061515521.69
   - RMSE: 45403.915
 
-- Tuned Random Forest Regressor Model:
+- Tuned Random Forest Regressor Model (Testing Set):
   - R^2: 0.563
   - MAE: 31998.943
   - MSE: 2044264641.827
