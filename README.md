@@ -155,7 +155,7 @@ Using this model to make predictions about the best places to live and which car
 
 Data Science Insights
 
-- For those who have an interst in Data Science:
+- For those who have an interest in Data Science:
   - Data Analytics Leads & Principal Data Engineers earn the most amount of money. However, this are usually not entry level careers and I would recommend going through a program, like Coding Dojo, where you can earn your data science certificate and then map out your career to these positions.
 
   - Data Engineers & Data Scientists have the most 100% remote positions. So, if you are wanting to work from home, or work from anywhere in the world, choosing one of the top five remote positions would be a good choice to build your career upon.
