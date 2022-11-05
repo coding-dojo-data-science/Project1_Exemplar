@@ -43,13 +43,6 @@ This histogram shows that the majority of the salaries are around $100,000.
     - To visualize the data for explantory purposes, three bargraphs were chosen and one linegraph was chosen.
     - The bargraphs were chosen to show how the categories compare to each other. 
     - Finally, a linegraph was chosen to show the trend of salaries over the past three years. 
-    
- ### Maching Learning Using the Following Models:
-    - Linear Regression Model
-    - Decision Tree Regressor Model
-    - Tuned Decision Tree Regressor Model
-    - Random Forest Regressor Model
-    - Tuned Random Forest Regressor Model
 
 
 ## Explanatory Visuals
@@ -108,6 +101,15 @@ This graph shows that `Data Engineers` have the most roles that are 100% remote,
 
 This graph shows that workers in 2022 earned the most amount of money.
 
+
+ ### Maching Learning Using the Following Models:
+    - Linear Regression Model
+    - Decision Tree Regressor Model
+    - Tuned Decision Tree Regressor Model
+    - Random Forest Regressor Model
+    - Tuned Random Forest Regressor Model
+    
+    
 ## Models Evaluated & Results
 
 - Linear Regression Model (Testing Set):
