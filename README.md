@@ -36,7 +36,7 @@ For this dataset, there were 607 rows and 12 columns.
   <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/exploratory1.png">
 </p>
 
-- This histogram shows that the majority of the salaries are around $100,000.
+This histogram shows that the majority of the salaries are around $100,000.
 
 
  ### Expanatory Data Analysis
