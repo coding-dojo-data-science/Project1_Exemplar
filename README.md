@@ -24,7 +24,6 @@ For this dataset, there were 607 rows and 12 columns.
 </p>
 
 
-
 ## To prepare this data, the data was cleaned, and the following processes were performed:
 
 ### Exploratory Data Analysis
@@ -51,13 +50,6 @@ For this dataset, there were 607 rows and 12 columns.
     - Tuned Decision Tree Regressor Model
     - Random Forest Regressor Model
     - Tuned Random Forest Regressor Model
-    
-    
-## Exploratory Visuals
-
-<p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/CodingDojo_Images/main/data-science.jpg">
-</p>
 
 
 ## Explanatory Visuals
